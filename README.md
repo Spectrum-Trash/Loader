@@ -16,6 +16,6 @@ Getting Started To access Project Spectrum, simply visit our website at www.spec
 
 Contributing Project Spectrum is a community-driven project, and we welcome contributions from Blox Fruits enthusiasts like yourself. If you have a guide, tutorial, tool, or any other resource that you would like to share with the community, we encourage you to submit your contributions. You can find more information on how to contribute in our Contribution Guidelines.
 
-Support If you have any questions, issues, or suggestions regarding Project Spectrum, please feel free to reach out to us. You can contact our support team via email at support@spectrum.pro or join our Discord server at discord.gg/hackerclub.
+Support If you have any questions, issues, or suggestions regarding Project Spectrum, please feel free to reach out to us. You can contact our support team via email at spectrum.in.th@gmail.com or join our Discord server at discord.gg/hackerclub.
 
 License Project Spectrum is released under the MIT License. You are free to use, modify, and distribute the code and resources provided here in accordance with the terms of the license.
