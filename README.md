@@ -20,7 +20,7 @@ Engage with like-minded individuals in our vibrant **community forums**. Ask que
 Enhance your workflow with our **exclusive tools**, including calculators, planners, and other utilities designed to optimize your experience.
 
 ## Getting Started
-Access **Project Spectrum** by visiting **[www.spectrum.pro](www.spectrum.pro)**. Our user-friendly interface makes it easy to navigate and explore all the resources available.
+Access **Project Spectrum** by visiting **[www.spectrum.pro](https://spectrumcheat.pro)**. Our user-friendly interface makes it easy to navigate and explore all the resources available.
 
 ## Contribute to Project Spectrum
 Project Spectrum thrives on community contributions! If you have a **guide, tutorial, tool, or other resource** to share, we encourage you to submit your contributions. Check out our **Contribution Guidelines** for more details on how to get involved.
